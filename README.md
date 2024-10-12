@@ -5,3 +5,7 @@ Made possible by the Pass Time backroom.
 + For pugs, use "pt_global_pug"
 
 # https://passtime.tf/
+
+# Changelog
+12/10/2024
+Fixes relating to the wrong whitelist being execed. 
